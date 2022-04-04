@@ -9,7 +9,7 @@
 
 html {
   scroll-behavior: smooth;
-  padding-top: env(safe-area-inset-top);
+  background-color: var(--darkgray-color);
 }
 
 body {
