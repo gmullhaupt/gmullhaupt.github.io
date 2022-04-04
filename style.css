@@ -235,7 +235,7 @@ body {
   #navbar {
     justify-content: center;
   }
-  #nav-list > li{
+  #nav-list > li {
     margin: 0 40px;
   }
   #contacts-header-main {
@@ -246,6 +246,10 @@ body {
   }
   #main-header {
     font-size: 55px;
+  }
+  #nav-list {
+    padding-right: 0px;
+  }
 }
 
 @media (max-width: 500px) {
