@@ -244,6 +244,8 @@ body {
   #contact-links {
     margin: 0px 0 200px 0;
   }
+  #main-header {
+    font-size: 70px;
 }
 
 @media (max-width: 500px) {
