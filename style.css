@@ -249,8 +249,10 @@ body {
     font-size: 55px;
   }
   #nav-list {
-    padding-right: 0px;
-    background-color: red;
+    padding: 0;
+    text-align: center;
+    justify-content: center;
+    margin: 0;
   }
 }
 
