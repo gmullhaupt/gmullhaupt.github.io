@@ -237,7 +237,7 @@ body {
   }
   #nav-list > li {
     margin: 0 40px;
-    background-color: blue;
+
   }
   #contacts-header-main {
     margin: 200px 0 0 0;
@@ -250,6 +250,7 @@ body {
   }
   #nav-list {
     padding-right: 0px;
+    background-color: blue;
   }
 }
 
